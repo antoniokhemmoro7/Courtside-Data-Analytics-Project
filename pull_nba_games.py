@@ -24,7 +24,7 @@ def create_table():
     conn.commit()
     conn.close()
 
-    # Pull the full 2024–25 season from nba_api
+# Pull the full 2024–25 season from nba_api
 def fetch_games():
     print("Fetching NBA 2024-25 season games from nba_api...")
 
