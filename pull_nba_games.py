@@ -23,3 +23,15 @@ def create_table():
 
     conn.commit()
     conn.close()
+
+    # Pull the full 2024–25 season from nba_api
+def fetch_games():
+    print("Fetching NBA 2024-25 season games from nba_api...")
+
+    # LeagueGameFinder returns two rows per game (home + away)
+    gamefinder = LeagueGameFinder(season_nullable="2024-25")
+    df = gamefinder.get_data_frames()[0]
+
+    print(f"Total rows fetched: {len(df)}")
+    return df
+
