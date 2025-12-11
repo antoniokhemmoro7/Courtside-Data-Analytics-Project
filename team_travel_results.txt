@@ -1,0 +1,45 @@
+NBA Team Travel Distance (2024–25 Season)
+---------------------------------------------------
+
+Minnesota Timberwolves: 67024.17 miles
+Golden State Warriors: 62959.24 miles
+Los Angeles Lakers: 55777.18 miles
+Denver Nuggets: 54264.61 miles
+Oklahoma City Thunder: 53500.00 miles
+Sacramento Kings: 52811.15 miles
+Memphis Grizzlies: 51770.70 miles
+Portland Trail Blazers: 51723.08 miles
+San Antonio Spurs: 51354.72 miles
+Dallas Mavericks: 51323.98 miles
+Miami Heat: 50477.32 miles
+LA Clippers: 50324.51 miles
+Boston Celtics: 49787.73 miles
+Houston Rockets: 49452.54 miles
+Orlando Magic: 48946.93 miles
+Phoenix Suns: 48936.49 miles
+Utah Jazz: 48028.50 miles
+Indiana Pacers: 47773.14 miles
+New York Knicks: 46877.99 miles
+Brooklyn Nets: 46599.87 miles
+Atlanta Hawks: 46373.01 miles
+New Orleans Pelicans: 45955.56 miles
+Philadelphia 76ers: 44162.92 miles
+Cleveland Cavaliers: 43510.18 miles
+Milwaukee Bucks: 43101.21 miles
+Detroit Pistons: 41774.76 miles
+Charlotte Hornets: 41676.42 miles
+Chicago Bulls: 40786.27 miles
+Toronto Raptors: 39225.12 miles
+Washington Wizards: 37529.34 miles
+New Zealand Breakers: 3176.44 miles
+Ratiopharm Ulm: 0.00 miles
+Team Rice: 0.00 miles
+Team Bonds: 0.00 miles
+ Team C: 0.00 miles
+ Team T: 0.00 miles
+ Team M: 0.00 miles
+ Team G League: 0.00 miles
+ Global Stars: 0.00 miles
+ Young Stars: 0.00 miles
+ OGs: 0.00 miles
+ Rising Stars: 0.00 miles
